@@ -1,8 +1,6 @@
 # Proyecto Ihavey
 
-Este repositorio existe con la finalidad de tener el código del sistema dirigido a Ihavey. Se llevará el control de visitas y solicitudes de habitad.
-
-De este modo este documento describe el la configuración y el desarrollo de un proyecto web utilizando las siguientes tecnologías:
+Este repositorio existe con la finalidad de tener el código del sistema dirigido a Ihavey. Se llevará el control de visitas y solicitudes de habitad. De este modo, este documento describe el la configuración y el desarrollo de un proyecto web utilizando las siguientes tecnologías:
 
 - PHP: Lenguaje de programación del lado del servidor para crear funcionalidades dinámicas.
 - Tailwind CSS: Framework CSS para crear interfaces de usuario receptivas y modernas.
